@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/19938780/182596148-04856e97-319f-435b-96a8-4ddbeb7b6bc2.png" alt="drawing" style="width:150px;"/>
 
 # Henry
 # PRO-ROPA
@@ -25,7 +26,7 @@ Importante necesario instalar node  y NPM
 
 ## BoilerPlate
 El Boilerplate tiene dos folders: server y cliente.<br>
-Adentro de api debe colocar un archivo .env que contenga la siguiente informacion:
+Adentro de la carpeta server debe colocar un archivo .env que contenga la siguiente informacion:
 
 ```
 DB_USER=postgres
@@ -37,7 +38,20 @@ COOKIE_SECRET=asK9USD8SFZASLDlpfkqaefrekigdxkicauqLSDKFE
 ```
 Tienes que reemplazar DB_USER y DB_PASSWORD con el respectivo usuario en postgres.<br>
 
-## Seguido
-Ve al manager de la base de datos y crea una base que se llame eccomerce
+Dentro de la carpeta cliente tienes que colocar un .env con los siguiente informaciónÑ
+```
+VITE_REACT_GOOGLE_ID=586049846286-8dm4fi9m9nddtv677qgll5tqbh1lvb4k.apps.googleusercontent.com
+```
+Tienes que reemplazar el VITE_REACT_GOOGLE_ID con los credenciales que tengo en Cloud de google para auth.
 
+## Seguido
+
+## <em> Conecte la base de Datos</em>
+- Ve al manager de la base de datos y crea una base que se llame `eccomerce`
+## <em> Instale los paquetes necesarios para correr el proyecto</em>
+- Abra la concola del proyecto
+ - Dentro de la carpeta `api`, corra el comando, `npm install`
+
+## Imagenes del Proyecto
+- Pagina Administrador
 ![image](https://user-images.githubusercontent.com/92419425/178786166-98768f39-64c2-4e46-a6a7-89e798d34629.png)
