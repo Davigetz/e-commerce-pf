@@ -53,5 +53,11 @@ Tienes que reemplazar el VITE_REACT_GOOGLE_ID con los credenciales que tengo en 
  - Dentro de la carpeta `api`, corra el comando, `npm install`
 
 ## Imagenes del Proyecto
+- Pagina Home
+<img width="1442" alt="image" src="https://user-images.githubusercontent.com/19938780/182596921-4f0474ca-0c78-48bf-9c7a-156d77e2934f.png">
+
+- Ingreso
+<img width="1468" alt="image" src="https://user-images.githubusercontent.com/19938780/182597191-3701a181-b797-4d46-b5f5-da050739d833.png">
+
 - Pagina Administrador
 ![image](https://user-images.githubusercontent.com/92419425/178786166-98768f39-64c2-4e46-a6a7-89e798d34629.png)
